@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\LUMA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\LUMA\\.nuget\\packages"
+    ]
+  }
+}
